@@ -1,0 +1,7 @@
+
+
+		~Battle Beetles Log~
+
+
+	- Nick Robbins 5/15/2017
+		*Inital Commit

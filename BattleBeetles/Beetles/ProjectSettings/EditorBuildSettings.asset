@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d6be237494f576d41b4a05e5fdd6fc70
+  - enabled: 1
+    path: Assets/Scenes/Test Scene.unity
+    guid: 95b439c781de0374ba41820b7bd90a9d
+  - enabled: 1
+    path: Assets/Scenes/Player 1 Wins.unity
+    guid: 4e35ff1474d9e574bb0d9a2e5b556193
+  - enabled: 1
+    path: Assets/Scenes/Player 2 Wins.unity
+    guid: 9e88605e17b51ea4982ac426e34d611d
+  - enabled: 1
+    path: Assets/Scenes/Tree Stump.unity
+    guid: a1517d30557400d40b4a2da47fe939f0
